@@ -1,0 +1,9 @@
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\bin\Debug\Hádám číslo.exe.config
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\bin\Debug\Hádám číslo.exe
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\bin\Debug\Hádám číslo.pdb
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\obj\Debug\Hádám číslo.csprojAssemblyReference.cache
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\obj\Debug\Hádám_číslo.Form1.resources
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\obj\Debug\Hádám_číslo.Properties.Resources.resources
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\obj\Debug\Hádám číslo.csproj.GenerateResource.cache
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\obj\Debug\Hádám číslo.exe
+C:\Users\kolacekj.ita19\Desktop\Progamování\Hádám číslo\Hádám číslo\obj\Debug\Hádám číslo.pdb
